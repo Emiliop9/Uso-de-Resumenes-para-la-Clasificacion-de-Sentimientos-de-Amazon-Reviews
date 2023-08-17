@@ -18,7 +18,7 @@ Se utilizaron dos tipos de técnicas para el proyectoÑ
 * **Bag of Words** con 100,200 y 500 tokens
 * **FastText** con dimensiones 100 y 200
 
-##Clasificación
+## Clasificación
 Como estrategias de clasificación se estudiaron las siguientes técnicas:
 
 * **Optimización Bayesiana** con dimensiones de Estandarización, Selección de Características, Algoritmos (SVC, KNN, DT y RF) con sus respectivos parámetros
